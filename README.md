@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-[View WeatherCraft Weather Dashboard](https://Mansi2202.github.io/weather-dashboard/)
+[View WeatherCraft Weather Dashboard](https://github.com/its-nitin-rathour/WeatherCraft)
 
 ---
 
@@ -108,7 +108,7 @@ weather-dashboard/
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Mansi2202/weather-dashboard.git
+    git clone https://github.com/its-nitin-rathour/weather-dashboard.git
     cd weather-dashboard
     ```
 
@@ -147,7 +147,7 @@ weather-dashboard/
 
 ## © License
 
-Copyright © 2024 Mansi2202  
+Copyright © 2024 its-nitin-rathour  
 All rights reserved.
 
 ---
