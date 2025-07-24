@@ -79,27 +79,28 @@
 
 ---
 
+
 ## 📁 Repo Structure
 
+```text
 weather-dashboard/
-│
 ├── assets/
-│ ├── images/
-│ │ └── Dashboard.png
-│ ├── js/
-│ │ └── script.js
-│ └── lottie/
-│ ├── humidity.json
-│ ├── sunny.json
-│ ├── uv index.json
-│ ├── Weather-cloudy(night).json
-│ ├── Weather-storm.json
-│ ├── Weather-windy.json
-│ └── Windblow.json
+│   ├── images/
+│   │   └── Dashboard.png
+│   ├── js/
+│   │   └── script.js
+│   └── lottie/
+│       ├── humidity.json
+│       ├── sunny.json
+│       ├── uv index.json
+│       ├── Weather-cloudy(night).json
+│       ├── Weather-storm.json
+│       ├── Weather-windy.json
+│       └── Windblow.json
 ├── index.html
 └── README.md
 
-
+```
 ---
 
 ## 🛠️ How to Run Locally
