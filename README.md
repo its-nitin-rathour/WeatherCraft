@@ -1,16 +1,16 @@
-# SkyPulse: Weather Dashboard
+# WeatherCraft: Weather Dashboard
 
 ---
 
 ## 🌐 Live Demo
 
-[View SkyPulse Weather Dashboard](https://Mansi2202.github.io/weather-dashboard/)
+[View WeatherCraft Weather Dashboard](https://Mansi2202.github.io/weather-dashboard/)
 
 ---
 
 ## 📖 Description
 
-**SkyPulse** is a modern, visually-rich weather dashboard that brings you real-time weather updates and a 5-day forecast for any city worldwide. Featuring animated Lottie icons, instant search, auto-location detection, and a clean, responsive design, SkyPulse offers a delightful weather experience on any device.
+**WeatherCraft** is a modern, visually-rich weather dashboard that brings you real-time weather updates and a 5-day forecast for any city worldwide. Featuring animated Lottie icons, instant search, auto-location detection, and a clean, responsive design, SkyPulse offers a delightful weather experience on any device.
 
 ---
 
@@ -139,7 +139,7 @@ weather-dashboard/
 
 ## 🙋 Credits
 
-- **Developed by:** [Mansi2202](https://github.com/Mansi2202)
+- **Developed by:** [Nitin Rathour](https://github.com/its-nitin-rathour)
 - **Weather data by:** [OpenWeatherMap](https://openweathermap.org/)
 - **Animated icons by:** [LottieFiles](https://lottiefiles.com/)
 
